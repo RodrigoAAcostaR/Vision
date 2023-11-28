@@ -60,8 +60,8 @@ public class Vision extends LinearOpMode {
         }
     ChessTowerDetection chessTowerDetection = new ChessTowerDetection();
 
-    private static final int CAMERA_WIDTH = 1280; // Ancho deseado de resolución de la cámara
-    private static final int CAMERA_HEIGHT = 720; // Alto deseado de resolución de la cámara
+    private static final int CAMERA_WIDTH = 720; // Ancho deseado de resolución de la cámara
+    private static final int CAMERA_HEIGHT = 480; // Alto deseado de resolución de la cámara
 
     private static final int HORIZON = 100; // Valor del horizonte para ajustar
 
